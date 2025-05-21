@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot for the App Component 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <header
+      class="App-header"
+    >
+      <p>
+        Learn Jest Testing
+      </p>
+      <p>
+        This is Not Case sanstive123
+      </p>
+      <input
+        id="userId"
+        name="Anuj Dwivedi"
+        placeholder="Enter Your Name"
+        type="text"
+        value=""
+      />
+      <button>
+        Click Me
+      </button>
+      <h1 />
+      <img
+        alt="No Image"
+        src="https://cdn.pixabay.com/photo/2015/04/23/22/00/new-year-background-736885_1280.jpg"
+        title="Image of the tree"
+      />
+    </header>
+  </div>
+</DocumentFragment>
+`;

@@ -1,5 +1,5 @@
 import { render, screen } from "@testing-library/react";
-import { sum } from "./sum";
+import { sum } from "../sum";
 
 // This test mathod take three argument (name, function, time)
 test("Test the Sum of Number", () => {
